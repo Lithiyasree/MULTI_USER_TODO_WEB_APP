@@ -1,4 +1,4 @@
-# -Multi_User_ToDo_List_Web_Application
+# - Multi_User_ToDo_List_Web_Application
 Django, HTML, CSS, JavaScript, SQLite 
 
 # ✅ Multi-User ToDo List Web Application
